@@ -1,0 +1,6 @@
+Libraries Used:
+	OpenCV
+	Divlib
+	Tkinter
+	Subprocess
+	Face_Recognition
